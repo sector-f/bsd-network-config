@@ -7,6 +7,10 @@ For example: `stow -t / gateway`
 
 Gateway:
 
+This configuration is modeled after a standard home router/gateway.
+LAN is what my PC is connected to
+WAN is the rest of my home network
+
 WAN
 	em0: 192.168.1.2/24
 
