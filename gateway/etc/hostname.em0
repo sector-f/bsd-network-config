@@ -1,0 +1,3 @@
+inet 192.168.1.2 255.255.255.0 192.168.1.255 description "WAN interface"
+dest 192.168.1.1
+up

@@ -1,0 +1,4 @@
+This directory contains various network configurations.
+It is intended to be used with the GNU stow utility.
+
+For example: `stow -t / gateway`
